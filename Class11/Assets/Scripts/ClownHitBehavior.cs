@@ -11,7 +11,7 @@ public class ClownHitBehavior : StateMachineBehaviour
         startTime = Time.time;
     }
 
-    override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         GameObject clown = animator.gameObject;
         clown.transform.localScale *= Mathf.Lerp(1, 0, Time.time - startTime);
