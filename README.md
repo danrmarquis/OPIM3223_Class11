@@ -24,5 +24,4 @@ Wrapping up animations of GameObjects!
 ### Trigger Code from Animations
 
 
-#### Resources
-- 
+#### Assignment 2 & Final Project!
