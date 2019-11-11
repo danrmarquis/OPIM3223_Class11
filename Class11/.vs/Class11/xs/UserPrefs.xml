@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B38E0606-902E-04D6-63F2-9827919716FF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ResetClown.cs">
+    <Files>
+      <File FileName="Assets/CollisionBehavior.cs" Line="19" Column="10" />
+      <File FileName="Assets/ClownHitBehavior.cs" Line="9" Column="25" />
+      <File FileName="Assets/ResetClown.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class11" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ResetClown.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ea5a02ca-8c99-4c43-8429-41c0b2c2e8f1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
